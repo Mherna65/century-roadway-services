@@ -1,0 +1,92 @@
+Photo credits for the Century Roadway Services, LLC website
+============================================================
+All images were chosen from sources that allow free commercial
+use on a business website. Images under Creative Commons
+Attribution (CC BY) are also credited in the site footer.
+
+
+1. Hero background — night highway work zone with a TMA truck
+   File:         images/hero-work-zone.jpg
+   Title:        Attenuator Truck Slow Down!
+   Source:       https://commons.wikimedia.org/wiki/File:Attenuator_Truck_Slow_Down!_(34374848282).jpg
+   Author:       Oregon Department of Transportation
+   License:      CC BY 2.0
+   License URL:  https://creativecommons.org/licenses/by/2.0/
+   Notes:        Used as the full-bleed hero photograph, with a dark
+                 overlay added in CSS so headline text stays readable.
+                 No crop other than resizing for the web (max 1600px wide).
+
+2. Services — TMA Rentals card
+   File:         images/service-tma.jpg
+   Title:        Attenuator Truck
+   Source:       https://commons.wikimedia.org/wiki/File:Attenuator_Truck_(48832686068).jpg
+   Author:       Oregon Department of Transportation
+   License:      CC BY 2.0
+   License URL:  https://creativecommons.org/licenses/by/2.0/
+   Notes:        Resized for the web (max 1600px wide).
+
+3. Services — Arrow Boards card
+   File:         images/service-arrow-board.jpg
+   Title:        Equipment ahead - attenuator truck
+   Source:       https://commons.wikimedia.org/wiki/File:Equipment_ahead_-_attenuator_truck_(52892644893).jpg
+   Author:       Oregon Department of Transportation
+   License:      CC BY 2.0
+   License URL:  https://creativecommons.org/licenses/by/2.0/
+   Notes:        Cropped to feature the lighted chevron arrow board and
+                 to exclude roadside business signs, then resized
+                 (max 1600px wide).
+
+4. Services — Message Boards card
+   File:         images/service-message-board.jpg
+   Title:        FEMA - 28431 - Photograph by Mark Wolfe taken on 02-12-2007 in Florida
+   Source:       https://commons.wikimedia.org/wiki/File:FEMA_-_28431_-_Photograph_by_Mark_Wolfe_taken_on_02-12-2007_in_Florida.jpg
+   Author:       Mark Wolfe / FEMA
+   License:      Public domain (U.S. government work)
+   License URL:  https://commons.wikimedia.org/wiki/Commons:Copyright_tags/United_States_Government
+   Notes:        Slightly cropped for composition, then resized
+                 (max 1600px wide). The trailer-mounted board in the
+                 photograph is a portable changeable message sign.
+
+5. Services — Barrels & Traffic Control Equipment card
+   File:         images/service-equipment.jpg
+   Title:        Roadwork Warning Sign on Street
+   Source:       https://www.pexels.com/photo/roadwork-warning-sign-on-street-17463440/
+   Author:       Dean Fugate
+   Author URL:   https://www.pexels.com/@dean-fugate-579564645/
+   License:      Pexels License (free for commercial use)
+   License URL:  https://www.pexels.com/license/
+   Notes:        Cropped to a 3:2 frame that features the Road Work Ahead
+                 sign, cone, and Be Prepared to Stop sign, then resized
+                 (max 1600px wide). Attribution is not required by the
+                 Pexels License but is included here and in the footer.
+
+6. Why choose us — flagger photograph
+   File:         images/flagger.jpg
+   Title:        Flagger stops traffic
+   Source:       https://commons.wikimedia.org/wiki/File:Flagger_stops_traffic_(36129147834).jpg
+   Author:       Oregon Department of Transportation
+   License:      CC BY 2.0
+   License URL:  https://creativecommons.org/licenses/by/2.0/
+   Notes:        Slightly cropped and resized (max 1600px wide). The
+                 flagger is shown at a distance in a U.S. highway work zone.
+
+
+Images considered but not used
+------------------------------
+- Unsplash and Pixabay candidate pages could not be retrieved from this
+  environment (bot-challenge / access blocked), so those libraries were
+  not used.
+- Several otherwise useful Wikimedia photos were skipped because they
+  were licensed CC BY-SA (ShareAlike is not used on this site), showed
+  clearly identifiable faces in close-up, showed competitor or rental-
+  company logos on trucks, or were not U.S. highway work (for example
+  European arrow trucks or overhead permanent message signs).
+- A standalone trailer-mounted arrow board (as opposed to an arrow board
+  mounted on a TMA / work truck) was not found in Public Domain or CC BY
+  collections. The arrow-board card uses a U.S. work-zone truck with a
+  clear lighted chevron arrow board.
+
+Web export
+----------
+All images used on the site were resized to a maximum width of 1600
+pixels and saved as progressive JPEG at about quality 80–82.
