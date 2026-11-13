@@ -417,9 +417,15 @@ a:hover { color: var(--black); }
   margin: 0;
   padding: 0;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(6, 1fr);
   gap: 1.25rem;
 }
+.service-grid .service-card {
+  grid-column: span 2;
+}
+/* Center the last two cards on the second row so five cards stay balanced */
+.service-grid .service-card:nth-child(4) { grid-column: 2 / span 2; }
+.service-grid .service-card:nth-child(5) { grid-column: 4 / span 2; }
 
 .service-card {
   background: var(--white);
@@ -884,6 +890,11 @@ fieldset {
   .footer-grid,
   .form-row {
     grid-template-columns: 1fr;
+  }
+  .service-grid .service-card,
+  .service-grid .service-card:nth-child(4),
+  .service-grid .service-card:nth-child(5) {
+    grid-column: auto;
   }
   .why-top { gap: 1.5rem; }
 

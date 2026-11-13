@@ -71,6 +71,21 @@ Attribution (CC BY) are also credited in the site footer.
                  flagger is shown at a distance in a U.S. highway work zone.
 
 
+
+7. Services — Off-Duty Police Officers card
+   File:         images/service-officers.jpg
+   Title:        OSP work zone traffic stop near I-5, Exit 6 July23 2021
+   Source:       https://commons.wikimedia.org/wiki/File:OSP_work_zone_traffic_stop_near_I-5,_Exit_6_July23_2021_(51331544554).jpg
+   Author:       Oregon Department of Transportation
+   License:      CC BY 2.0
+   License URL:  https://creativecommons.org/licenses/by/2.0/
+   Notes:        Cropped to a 3:2 frame that features the highway work zone,
+                 Road Work Ahead sign, and officers with a motorist. The crop
+                 excludes a marked patrol vehicle in the foreground so that
+                 agency lettering is not shown. Officers are at a distance
+                 and faces are not clearly identifiable. Resized for the web
+                 (max 1600px wide).
+
 Images considered but not used
 ------------------------------
 - Unsplash and Pixabay candidate pages could not be retrieved from this
