@@ -86,6 +86,33 @@ Attribution (CC BY) are also credited in the site footer.
                  and faces are not clearly identifiable. Resized for the web
                  (max 1600px wide).
 
+
+8. Off-Duty Police Services — night patrol car with red and blue lights
+   File:         images/officers-night.jpg
+   Title:        Police car with emergency lights on
+   Source:       https://commons.wikimedia.org/wiki/File:Police_car_with_emergency_lights_on.jpg
+   Flickr:       https://www.flickr.com/photos/33129669@N05/3090392251/
+   Author:       Scott Davidson
+   License:      CC BY 2.0
+   License URL:  https://creativecommons.org/licenses/by/2.0/
+   Notes:        Used at the native resolution of 850 × 565 pixels (the
+                 available original is smaller than 1600px and was not
+                 upscaled). The license plate in the photograph is already
+                 blacked out. No agency name or insignia is visible.
+
+9. Off-Duty Police Services — emergency light bar
+   File:         images/officers-lightbar.jpg
+   Title:        Police Lights
+   Source:       https://commons.wikimedia.org/wiki/File:Police_Lights.jpg
+   Flickr:       https://www.flickr.com/photos/mattring/6204692459/
+   Author:       Matty Ring
+   License:      CC BY 2.0
+   License URL:  https://creativecommons.org/licenses/by/2.0/
+   Notes:        Cropped to a 3:2 frame that features the light bar, then
+                 resized for the web (max 1600px wide). The bar shows a
+                 generic “POLICE” legend, not a specific agency name.
+
+
 Images considered but not used
 ------------------------------
 - Unsplash and Pixabay candidate pages could not be retrieved from this
@@ -104,4 +131,6 @@ Images considered but not used
 Web export
 ----------
 All images used on the site were resized to a maximum width of 1600
-pixels and saved as progressive JPEG at about quality 80–82.
+pixels and saved as progressive JPEG at about quality 80–82, except
+images/officers-night.jpg, which is used at its native 850 × 565
+pixels so it is not upscaled.
