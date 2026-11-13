@@ -87,18 +87,22 @@ Attribution (CC BY) are also credited in the site footer.
                  (max 1600px wide).
 
 
-8. Off-Duty Police Services — night patrol car with red and blue lights
+8. Off-Duty Police Services — newer Chevrolet Tahoe police SUV with red and blue lights at night
    File:         images/officers-night.jpg
-   Title:        Police car with emergency lights on
-   Source:       https://commons.wikimedia.org/wiki/File:Police_car_with_emergency_lights_on.jpg
-   Flickr:       https://www.flickr.com/photos/33129669@N05/3090392251/
-   Author:       Scott Davidson
+   Title:        CSX Railroad Police New Chevrolet Tahoe (Left front view)
+   Source:       https://commons.wikimedia.org/wiki/File:CSX_Railroad_Police_New_Chevrolet_Tahoe_(Left_front_view).jpg
+   Flickr:       https://www.flickr.com/photos/cak757/54229087146/
+   Author:       Raymond Wambsgans
    License:      CC BY 2.0
    License URL:  https://creativecommons.org/licenses/by/2.0/
-   Notes:        Used at the native resolution of 850 × 565 pixels (the
-                 available original is smaller than 1600px and was not
-                 upscaled). The license plate in the photograph is already
-                 blacked out. No agency name or insignia is visible.
+   Notes:        Cropped to a 4:3 frame of the front of the SUV so that
+                 agency lettering and livery on the side of the vehicle are
+                 not shown. No license plate is in the crop. Resized for the
+                 web (max 1600px wide). The photograph, taken at night on
+                 23 December 2024, shows a 2021-or-later Chevrolet Tahoe
+                 with red and blue emergency lights on. This image replaces
+                 an earlier Crown Victoria photograph (Scott Davidson,
+                 CC BY 2.0), which is no longer used on the site.
 
 9. Off-Duty Police Services — emergency light bar
    File:         images/officers-lightbar.jpg
@@ -131,6 +135,4 @@ Images considered but not used
 Web export
 ----------
 All images used on the site were resized to a maximum width of 1600
-pixels and saved as progressive JPEG at about quality 80–82, except
-images/officers-night.jpg, which is used at its native 850 × 565
-pixels so it is not upscaled.
+pixels and saved as progressive JPEG at about quality 80–82.

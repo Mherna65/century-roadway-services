@@ -577,7 +577,7 @@ a:hover { color: var(--black); }
   width: 100%;
   height: auto;
   display: block;
-  aspect-ratio: 850 / 565;
+  aspect-ratio: 4 / 3;
   object-fit: cover;
 }
 .officers-grid {
